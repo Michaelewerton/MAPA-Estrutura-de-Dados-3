@@ -1,4 +1,4 @@
-MAPA – Estrutura de Dados I: Análise da Profundidade em Árvores Binárias
+MAPA – Estrutura de Dados 3: Análise da Profundidade em Árvores Binárias
 Autor: Michael Ewerton Oliveira Disciplina: Estrutura de Dados I Instituição: UniCesumar
 
 Contextualização do Projeto
