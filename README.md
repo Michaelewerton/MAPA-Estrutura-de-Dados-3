@@ -1,5 +1,5 @@
-MAPA – Estrutura de Dados 2: Análise da Profundidade em Árvores Binárias
-Autor: Michael Ewerton Oliveira Disciplina: Estrutura de Dados 2 Instituição: UniCesumar
+MAPA – Estrutura de Dados 3: Análise da Profundidade em Árvores Binárias
+Autor: Michael Ewerton Oliveira Disciplina: Estrutura de Dados 3 Instituição: UniCesumar
 
 Contextualização do Projeto
 Este projeto tem como objetivo explorar o conceito de profundidade em árvores binárias, uma das estruturas de dados mais fundamentais na ciência da computação. A atividade propõe a análise do impacto da profundidade sobre as operações de busca, inserção e remoção, destacando a importância da manutenção do balanceamento da árvore para garantir eficiência algorítmica.
